@@ -1,4 +1,4 @@
-# simple-flexible-layout
-Simple flexible layout and transition effect.
+# simple-animation-popup
+simple-animation-popup.
 
-Demo: [CodePen](https://codepen.io/shamk04/pen/QpPmEw)
+Demo: [CodePen](https://codepen.io/shamk04/pen/VpJLzj)
